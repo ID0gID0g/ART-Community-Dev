@@ -48,11 +48,13 @@
         </dependency>
 
         <!-- Взаимодействие с Базой Данных -->
+        <!-- https://translated.turbopages.org/proxy_u/en-ru.ru.724cdee7-644fa36f-88478147-74722d776562/https/www.baeldung.com/java-mongodb -->
         <dependency>
-            <groupId>org.postgresql</groupId>
-            <artifactId>postgresql</artifactId>
-            <version>42.2.25</version>
+            <groupId>org.mongodb</groupId>
+            <artifactId>mongodb-driver-sync</artifactId>
+            <version>4.9.0</version>
         </dependency>
+
 
     </dependencies>
 

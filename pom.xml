@@ -47,6 +47,13 @@
             <version>2.10.1</version>
         </dependency>
 
+        <!-- Взаимодействие с Базой Данных -->
+        <dependency>
+            <groupId>org.postgresql</groupId>
+            <artifactId>postgresql</artifactId>
+            <version>42.2.25</version>
+        </dependency>
+
     </dependencies>
 
 </project>

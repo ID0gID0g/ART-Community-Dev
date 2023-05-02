@@ -40,4 +40,4 @@ _пример:_ сотрудничество со школами искусст�
 # Связь с автором
 <img alt="avatar.jpg" height="300" src="src/main/resources/avatar.jpg" width="300"/>
 
-— VK: vk.com/idogidog — TG: t.me/idogidog
+— VK: [vk.com/idogidog](vk.com/idogidog) — TG: [t.me/idogidog](t.me/idogidog)

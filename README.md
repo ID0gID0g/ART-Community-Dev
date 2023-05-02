@@ -39,6 +39,6 @@ _пример:_ сотрудничество со школами искусст�
 
 # Связь с автором
 <img alt="avatar.jpg" height="300" src="src/main/resources/avatar.jpg" width="300"/>        
-<img height="150" src="E:\IDogIDog\ART-Community-Dev\src\main\resources\vk_qr.jpg" width="150"/><img height="150" src="E:\IDogIDog\ART-Community-Dev\src\main\resources\tg_qr.jpg" width="150"/>
+<img height="150" src="src\main\resources\vk_qr.jpg" width="150"/><img height="150" src="src\main\resources\tg_qr.jpg" width="150"/>
 
 — VK: vk.com/idogidog — TG: t.me/idogidog

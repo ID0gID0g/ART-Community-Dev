@@ -38,6 +38,6 @@ _примечание 2:_ фонд может использоваться дл�
 _пример:_ сотрудничество со школами искусств (художественных/музыкальных/театральных)/иными организациями
 
 # Связь с автором
-![avatar.jpg](src/main/resources/avatar.jpg)
-<img height="219" src="C:\Users\ID\Downloads\Telegram Desktop\1681223296903.png" width="219"/> <img alt="img.png" height="219" src="img.png" width="219"/>
+<img alt="avatar.jpg" height="438" src="src/main/resources/avatar.jpg" width="438"/>        
+<img height="219" src="E:\IDogIDog\ART-Community-Dev\src\main\resources\vk_qr.jpg" width="219"/><img height="219" src="E:\IDogIDog\ART-Community-Dev\src\main\resources\tg_qr.jpg" width="219"/>
 — VK: vk.com/idogidogㅤㅤㅤㅤㅤㅤ— TG: t.me/idogidog
